@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Safetyroom",
-    "currentPage": "safetyroom.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -615,7 +615,7 @@
         }
       ]
     },
-    "safetyroom.html": {
+    "home.html": {
       "settings": {
         "main": true,
         "title": "Safety Room",
