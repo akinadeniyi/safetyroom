@@ -1584,6 +1584,52 @@ a {
 .cid-sfnaBuqNfz .list {
   color: #fafafa;
 }
+.cid-sfErLgJ7qF {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-sfErLgJ7qF .card-img {
+  padding: 0 0 3rem;
+}
+.cid-sfErLgJ7qF .mbr-section-btn {
+  margin-left: 0;
+}
+.cid-sfErLgJ7qF .card-days {
+  background-color: #4284df;
+  border-radius: 5px;
+}
+.cid-sfErLgJ7qF .card-days .schedule > ul {
+  display: block;
+  margin: 0 auto;
+  padding-left: 0;
+  list-style: none;
+}
+.cid-sfErLgJ7qF .card-days .schedule > ul li {
+  border-top: 1px solid;
+  padding-top: 10px;
+}
+.cid-sfErLgJ7qF .card-days .schedule > ul li:first-child {
+  border-top: none;
+}
+.cid-sfErLgJ7qF .card-days .schedule > ul li span {
+  float: right;
+  text-align: right;
+  padding-left: 0.5rem;
+}
+.cid-sfErLgJ7qF .card-days .schedule > ul li:after {
+  display: block;
+  content: '';
+  clear: both;
+}
+@media (min-width: 992px) {
+  .cid-sfErLgJ7qF .my-col {
+    -webkit-flex: 0 0 20%;
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+  }
+}
 .cid-sfqS0kU8hc {
   padding-top: 6rem;
   padding-bottom: 6rem;
