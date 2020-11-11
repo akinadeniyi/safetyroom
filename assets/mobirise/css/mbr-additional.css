@@ -1584,93 +1584,40 @@ a {
 .cid-sfnaBuqNfz .list {
   color: #fafafa;
 }
-.cid-sfErLgJ7qF {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #f9f9f9;
-}
-.cid-sfErLgJ7qF .card-img {
-  padding: 0 0 3rem;
-}
-.cid-sfErLgJ7qF .mbr-section-btn {
-  margin-left: 0;
-}
-.cid-sfErLgJ7qF .card-days {
-  background-color: #4284df;
-  border-radius: 5px;
-}
-.cid-sfErLgJ7qF .card-days .schedule > ul {
-  display: block;
-  margin: 0 auto;
-  padding-left: 0;
-  list-style: none;
-}
-.cid-sfErLgJ7qF .card-days .schedule > ul li {
-  border-top: 1px solid;
-  padding-top: 10px;
-}
-.cid-sfErLgJ7qF .card-days .schedule > ul li:first-child {
-  border-top: none;
-}
-.cid-sfErLgJ7qF .card-days .schedule > ul li span {
-  float: right;
-  text-align: right;
-  padding-left: 0.5rem;
-}
-.cid-sfErLgJ7qF .card-days .schedule > ul li:after {
-  display: block;
-  content: '';
-  clear: both;
-}
-@media (min-width: 992px) {
-  .cid-sfErLgJ7qF .my-col {
-    -webkit-flex: 0 0 20%;
-    flex: 0 0 20%;
-    max-width: 20%;
-    padding: 15px;
-  }
-}
-.cid-sfqS0kU8hc {
+.cid-sg1LmHp7BP {
   padding-top: 6rem;
   padding-bottom: 6rem;
   background-color: #ffffff;
 }
-.cid-sfqS0kU8hc .mbr-overlay {
-  background-color: #ffffff;
-  opacity: 0.4;
-}
-.cid-sfqS0kU8hc form .mbr-section-btn {
-  text-align: center;
-  width: 100%;
-}
-.cid-sfqS0kU8hc form .mbr-section-btn .btn {
-  display: inline-flex;
+.cid-sg1LmHp7BP .content-wrapper {
+  background: #fafafa;
 }
 @media (max-width: 991px) {
-  .cid-sfqS0kU8hc form .mbr-section-btn .btn {
-    width: 100%;
+  .cid-sg1LmHp7BP .content-wrapper .image-wrapper {
+    margin-bottom: 2rem;
   }
 }
-.cid-sfqS0kU8hc H5 {
-  text-align: center;
+@media (max-width: 767px) {
+  .cid-sg1LmHp7BP .content-wrapper {
+    padding: 1rem;
+  }
 }
-.cid-sfqS0kU8hc .mbr-section-title {
-  color: #4479d9;
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-sg1LmHp7BP .content-wrapper {
+    padding: 2rem;
+  }
 }
-.cid-sfWSFQdZdw {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
+@media (min-width: 992px) {
+  .cid-sg1LmHp7BP .content-wrapper {
+    padding: 5rem 3rem;
+  }
+  .cid-sg1LmHp7BP .content-wrapper .text-wrapper {
+    padding-left: 2rem;
+  }
 }
-.cid-sfoqqaUyNj {
-  padding-top: 5rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-.cid-sfoqqWdcmG {
-  padding-top: 0rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
+.cid-sg1LmHp7BP .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
 }
 .cid-sfxjO20vUL {
   padding-top: 75px;
