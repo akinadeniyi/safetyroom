@@ -1619,6 +1619,90 @@ a {
   width: 100%;
   object-fit: cover;
 }
+.cid-sg2wkJmrkx {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-sg2wkJmrkx h3 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  display: inline;
+  text-decoration: none;
+  background-image: linear-gradient(transparent calc(98%), currentColor 1px);
+  background-repeat: no-repeat;
+  background-position: 0;
+  background-size: 0% 100%;
+  transition: 0.6s cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+.cid-sg2wkJmrkx .pt-4 {
+  padding-top: 2rem!important;
+}
+.cid-sg2wkJmrkx .card-img {
+  position: relative;
+  height: 350px;
+  overflow: hidden;
+}
+.cid-sg2wkJmrkx p {
+  color: #767676;
+  text-align: left;
+}
+.cid-sg2wkJmrkx .card-wrapper {
+  height: 100%;
+}
+.cid-sg2wkJmrkx .container-fluid {
+  max-width: 1600px;
+}
+.cid-sg2wkJmrkx img {
+  object-fit: cover;
+  height: 100%;
+  transition: all 0.3s;
+}
+.cid-sg2wkJmrkx h4 {
+  margin: 0;
+}
+.cid-sg2wkJmrkx .icons {
+  position: absolute;
+  font-size: 1rem;
+  display: flex;
+  flex-direction: column;
+  left: 30px;
+  bottom: 20px;
+  transition: all 0.3s;
+  opacity: 0;
+  z-index: 2;
+}
+.cid-sg2wkJmrkx .mbr-iconfont {
+  color: #55b4d4;
+  display: block;
+  transition: all 0.3s;
+  padding-bottom: 10px;
+}
+.cid-sg2wkJmrkx .mbr-iconfont:hover {
+  color: #cccccc;
+}
+.cid-sg2wkJmrkx .card:hover h3 {
+  background-size: 100% 100%;
+}
+.cid-sg2wkJmrkx .card:hover .icons {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-sg2wkJmrkx .icons {
+    opacity: 1;
+  }
+}
+.cid-sg2wkJmrkx .name,
+.cid-sg2wkJmrkx .title-align {
+  text-align: center;
+}
+.cid-sg2wkJmrkx .card-title {
+  text-align: center;
+}
+.cid-sg2wkJmrkx .maintitle {
+  text-align: center;
+}
 .cid-sg2m8mM3js {
   padding-top: 60px;
   padding-bottom: 60px;
