@@ -1630,6 +1630,58 @@ a {
     padding: 15px;
   }
 }
+.cid-sg3YUvIb2u {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #f4f8fa;
+}
+.cid-sg3YUvIb2u .mbr-iconfont {
+  color: #ffe161;
+}
+.cid-sg3YUvIb2u .mbr-iconfont:hover {
+  color: #188ef4 !important;
+}
+.cid-sg3YUvIb2u .mbr-text {
+  margin: 1.5rem 0;
+}
+.cid-sg3YUvIb2u .card-img {
+  margin-bottom: 2rem;
+  max-width: 200px;
+  max-height: 200px;
+  margin: 0 auto 2rem auto;
+  border-radius: 50%;
+  overflow: hidden;
+  position: relative;
+  z-index: 1;
+  -webkit-box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
+  box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
+}
+.cid-sg3YUvIb2u .img-icon {
+  width: 100%;
+  height: auto;
+}
+@media (min-width: 992px) {
+  .cid-sg3YUvIb2u .my-col {
+    -webkit-flex: 0 0 20%;
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+  }
+}
+.cid-sg3YUvIb2u .mbr-section-subtitle,
+.cid-sg3YUvIb2u .mbr-text,
+.cid-sg3YUvIb2u .social-links .mbr-iconfont {
+  color: #8d97ad;
+}
+.cid-sg3YUvIb2u .card-title {
+  text-align: center;
+}
+.cid-sg3YUvIb2u .user-desc DIV {
+  text-align: center;
+}
+.cid-sg3YUvIb2u .user-desc {
+  text-align: center;
+}
 .cid-sg2m8mM3js {
   padding-top: 60px;
   padding-bottom: 60px;
