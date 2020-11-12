@@ -1592,9 +1592,6 @@ a {
 .cid-sg3bdS4Dz4 .card-img {
   padding: 0 0 3rem;
 }
-.cid-sg3bdS4Dz4 .mbr-section-btn {
-  margin-left: 0;
-}
 .cid-sg3bdS4Dz4 .card-days {
   background-color: #4284df;
   border-radius: 5px;
@@ -1629,6 +1626,37 @@ a {
     max-width: 20%;
     padding: 15px;
   }
+}
+.cid-sg8vKKdtv7 {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-sg8vKKdtv7 .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.4;
+}
+.cid-sg8vKKdtv7 form.mbr-form {
+  border-radius: 10px;
+  background-color: #fafafa;
+}
+@media (min-width: 992px) {
+  .cid-sg8vKKdtv7 form.mbr-form {
+    padding: 3rem 2rem;
+    width: 60%;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sg8vKKdtv7 form.mbr-form {
+    padding: 1rem;
+  }
+}
+.cid-sg8vKKdtv7 form.mbr-form .mbr-section-btn {
+  text-align: center;
+  width: 100%;
+}
+.cid-sg8vKKdtv7 form.mbr-form .mbr-section-btn .btn {
+  width: 100%;
 }
 .cid-sg3YUvIb2u {
   padding-top: 60px;
