@@ -22,6 +22,7 @@
   <link rel="stylesheet" href="assets/datepicker/jquery.datetimepicker.min.css">
   <link rel="stylesheet" href="assets/socicon/css/styles.css">
   <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="stylesheet" href="assets/recaptcha.css">
   <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
   
   
@@ -154,15 +155,15 @@
     
     <div class="container-fluid">
         <div class="mbr-section-head">
-            <h3 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2"><strong>Fill the form to register</strong></h3>
-            
+            <h3 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2"><strong>Registration for Safetyroom</strong></h3>
+            <h4 class="mbr-section-subtitle mbr-fonts-style align-center mb-0 mt-2 display-5"><strong>1. Fill the form</strong></h4>
         </div>
         <div class="row justify-content-center mt-4">
-            <div class="col-lg-8 mx-auto mbr-form">
+            <div class="col-lg-8 mx-auto mbr-form" data-form-type="formoid">
 <!--Formbuilder Form-->
-<form action="https://flutterwave.com/pay/safetyroom" method="POST" class="mbr-form form-with-styler mx-auto">
+<form action="https://mobirise.eu/" method="POST" class="mbr-form form-with-styler mx-auto" data-form-title="Form Name"><input type="hidden" name="email" data-form-email="true" value="MX2+KuyDUHzWs4UT9H+5lSziuBYvcasZ2BHPoeU6Mly2Cr8Pv44azB/0+4H2uxxhjLa0SXHtmKPPEv0fqf3DY1jSh2dgHzMWLy7BcI3VSvJ6wYEFawLc8B+iiIoxIzR+">
 <div class="">
-
+<div hidden="hidden" data-form-alert="" class="alert alert-success col-12">Your details has been submitted!</div>
 <div hidden="hidden" data-form-alert-danger="" class="alert alert-danger col-12">Oops...! some problem!</div>
 </div>
 <div class="dragArea">
@@ -184,7 +185,7 @@
 </div>
 <div data-for="preferredTime" class="col-lg-12 col-md-12 col-sm-12 form-group">
 <label for="preferredTime-form7-24" class="form-control-label mbr-fonts-style display-7">Select Your Preferred Time Slot for 1 -on- 1 Counselling/Therapy Session</label>
-<select name="preferredTime" data-form-field="preferredTime" class="form-control display-7" required="required" id="preferredTime-form7-24">
+<select name="preferredTime" data-form-field="preferredTime" required="required" class="form-control display-7" id="preferredTime-form7-24">
 <option value="Select">Select</option>
 <option value="10 AM">10 AM</option>
 <option value="11 AM">11 AM</option>
@@ -199,11 +200,36 @@
 </select>
 </div>
 <div class="col-auto mbr-section-btn align-center">
-<button type="submit" class="btn btn-primary display-4">Proceed To Pay</button>
+<button type="submit" class="btn btn-primary display-4">Submit</button>
 </div>
 </div>
 </form><!--Formbuilder Form-->
 </div>
+        </div>
+    </div>
+</section>
+
+<section class="content4 cid-sgeQG6gpnQ" id="content4-26">
+    
+    
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="title col-md-12 col-lg-10">
+                <h3 class="mbr-section-title mbr-fonts-style align-center mb-4 display-5"><strong>2. Make payment</strong></h3>
+                
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="content11 cid-sgeQELDoDE" id="content11-25">
+    
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-12 col-lg-10">
+                <div class="mbr-section-btn align-center"><a class="btn btn-primary display-4" href="https://flutterwave.com/store/teenagerssafetyhub/bttoduihhdgh">Proceed To Pay</a></div>
+            </div>
         </div>
     </div>
 </section>
@@ -295,7 +321,7 @@
                     Please feel free to reach out to us via our contact channels if you have any enquiries.</p>
             </div>
             <div class="col-12 col-md-6">
-                <div class="google-map"><iframe frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCZI5F_k6S1k46ujh0SNrapM89f7mJxd30&amp;q=Lekki, Lagos, Nigeria" allowfullscreen=""></iframe></div>
+                <div class="google-map"><iframe frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDk89J4FSunMF33ruMVWJaJht_Ro0kvoXs&amp;q=Lekki, Lagos, Nigeria" allowfullscreen=""></iframe></div>
             </div>
             <div class="col-md-6">
                 
@@ -318,6 +344,7 @@
   <script src="assets/formstyler/jquery.formstyler.min.js"></script>
   <script src="assets/datepicker/jquery.datetimepicker.full.js"></script>
   <script src="assets/theme/js/script.js"></script>
+  <script src="assets/formoid.min.js"></script>
   
   
   
